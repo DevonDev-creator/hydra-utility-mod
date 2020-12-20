@@ -1,4 +1,4 @@
-# Hydra Client
+# Hydra Utility Mod
 
 ## Building
 - Clone this repository
